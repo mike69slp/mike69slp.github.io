@@ -58,10 +58,9 @@ Future improvements:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[stars-shield]: https://img.shields.io/github/stars/mike69slp/portafolio_w9_bustracker.svg?style=for-the-badge
-[stars-url]: https://github.com/mike69slp/portafolio_w9_bustracker/stargazers
-[license-shield]: https://img.shields.io/github/license/mike69slp/portafolio_w9_bustracker.svg?style=for-the-badge
-[license-url]: https://github.com/mike69slp/portafolio_w9_bustracker/blob/main/LICENSE
+[stars-shield]: https://img.shields.io/github/stars/mike69slp/mike69slp.github.io.svg?style=for-the-badge
+[stars-url]: https://github.com/mike69slp/mike69slp.github.io/stargazers
+[license-shield]: https://img.shields.io/github/license/mike69slp/mike69slp.github.io.svg?style=for-the-badge
+[license-url]: https://github.com/mike69slp/mike69slp.github.io/blob/main/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-esparza-3403306a
-[product-screenshot]: https://github.com/mike69slp/portafolio_w9_bustracker/blob/main/red.png
