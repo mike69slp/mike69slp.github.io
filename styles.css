@@ -1,0 +1,57 @@
+.portafolio-photo {
+    width: 150px;
+    height: 150px;
+    background-image: url('images/photo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    border-radius: 100px;
+    margin-bottom: 30px
+}
+
+.portafolio-about-me {
+    max-width: 800px;
+    margin: 0 auto
+}
+
+.portafolio-blockie {
+    width: 150px;
+    height: 150px;
+    background-image: url('images/blockie.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: auto;
+    margin-bottom: 30px
+}
+
+.project-container {
+    display: grid;
+    grid-template:
+    'thumbnail thumbnail'
+    'thumbnail thumbnail'
+    'thumbnail thumbnail'
+    'thumbnail thumbnail'
+    'body body'
+    'body body'
+    'view-code view-demo';
+    grid-gap: 0px;
+    padding: 0px;
+}
+
+.project-thumbnail {
+    grid-area: thumbnail;
+}
+
+.project-body {
+    grid-area: body;
+}
+
+.project-view-code {
+    grid-area: view-code;
+    padding-bottom: 10px;;
+}
+
+.project-view-demo {
+    grid-area: view-demo;
+    padding-bottom: 10px;;
+}
